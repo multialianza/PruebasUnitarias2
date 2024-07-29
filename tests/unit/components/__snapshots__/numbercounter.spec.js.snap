@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Componente NumberCounter.vue Validación de match con el snapshot (Coincidir con la instantánea) 1`] = `
+<div class="wrapper">
+  <h1> Contador </h1>
+  <p>getCount(state) {
+    return state.count; // Obtiene el valor del contador
+    }</p>
+  <div class="botones"><button class="botones-increment">Incrementar</button><button class="botones-decrement">Decrementar</button></div>
+</div>
+`;
